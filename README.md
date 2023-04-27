@@ -17,6 +17,7 @@ Bark is a transformer-based text-to-audio model created by [Suno](https://suno.a
 
 [![Open in Spaces](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/suno/bark)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing)
+[![Replicate](https://replicate.com/cjwbw/bark/badge)](https://replicate.com/cjwbw/bark) 
 
 ## 🤖 Usage
 
